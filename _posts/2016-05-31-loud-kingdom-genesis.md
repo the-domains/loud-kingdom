@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'LOUD KINGDOM: GENESIS'
-datePublished: '2016-05-31T10:07:47.917Z'
-dateModified: '2016-05-31T10:07:11.038Z'
+datePublished: '2016-05-31T10:14:09.239Z'
+dateModified: '2016-05-31T10:14:07.606Z'
 title: ''
 author: []
 authors: []
@@ -21,6 +21,6 @@ _type: Article
 
 **Introducing Strategic Charity**
 
-**We will maximize your charitable donations, helping for-profit come together with non-profit business. **
+**We will maximize your charitable donations, helping for-profit come together with non-profit business. Stay tuned for updates on our first event. Coming soon in July 2016\. **
 
 ****
