@@ -1,28 +1,40 @@
-name: LOUD Kingdom
-favicon: null
 layout_spectrum: 0.4873900832608342
-typography_spectrum: 0.68282
-cta:
-  domain: null
-  bucket: null
-  version: null
+favicon: null
+name: LOUD Kingdom
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+cta:
+  version: null
+  bucket: null
+  domain: null
 color:
+  brandStrength: 0.4127360582351685
+  lightness: 1
+  saturation: 0.0371653
+  rhythmicContrast: 1
   brandColors:
     - '#211f20'
     - '#ffffff'
     - '#dbdbdb'
     - '#868686'
     - '#535353'
-  brandStrength: 0.41273605823516846
-  lightness: 0.5
-  saturation: 0
-  rhythmicContrast: 0.25
-purpose: []
+typography_spectrum: 0.64124
