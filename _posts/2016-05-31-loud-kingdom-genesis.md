@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'LOUD KINGDOM: GENESIS'
-datePublished: '2016-06-01T04:02:00.380Z'
-dateModified: '2016-05-31T20:44:06.648Z'
+datePublished: '2016-06-02T04:52:56.222Z'
+dateModified: '2016-06-02T04:52:49.129Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-31-loud-kingdom-genesis.md
