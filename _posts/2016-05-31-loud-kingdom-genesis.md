@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'LOUD KINGDOM: GENESIS'
-datePublished: '2016-06-04T02:28:45.345Z'
-dateModified: '2016-06-03T17:35:22.052Z'
+datePublished: '2016-06-04T16:09:33.138Z'
+dateModified: '2016-06-04T16:09:28.459Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-31-loud-kingdom-genesis.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: loud-kingdom-genesis/index.html
 _type: Article
 
